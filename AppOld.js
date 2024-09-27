@@ -1,8 +1,8 @@
-{/* <div id="parent">
+/* <div id="parent">
     <div id="child">
         <h1>I'm h1 tag!</h1>
     </div>
-</div> */}
+</div> */
 
 // const heading = React.createElement("h1",{
 //     id: "heading"
@@ -21,3 +21,4 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 console.log(parent);
 
 root.render(parent);
+
